@@ -1,6 +1,5 @@
-# vue-test
+# Тестовая работа для "Центр новаций и технологий".
 
-> A Vue.js project
 
 ## Build Setup
 
